@@ -11,6 +11,7 @@ public class AdminController : Controller
     public AdminController(ILogger<AdminController> logger)
     {
         _logger = logger;
+        d
     }
 
     public IActionResult Index()
