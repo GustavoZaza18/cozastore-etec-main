@@ -1,6 +1,6 @@
 Configurando o Git 
-git config --global user.name "MatheusRisatti"
-git config --global user.email "risattimatheus@gmail.com"
+git config --global user.name "GustavoZaza18"
+git config --global user.email "gbuzacarini@gmail.com"
 
 Criar o Projeto
 dotnet new mvc -o Cozastore
